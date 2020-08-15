@@ -7,6 +7,8 @@
  
  The Unity Project can be found here: https://github.com/rebeccaruva/GabbGlobalChallenge-Bex/tree/master/GG%20Challenge%20-%20Unity%20Files/Deutsch_FlagGame
  
- The Android Builld can be found here (Google Drive): https://drive.google.com/file/d/1Uef_XkBYbq7erSHSXLhygSj-XM1imEVo/view?usp=sharing
+ The Android Build can be found here (Google Drive): https://drive.google.com/file/d/1Mv1LtWgZF_De42lY5j1kKUfJVyP6aomd/view?usp=sharing
+ and here (GitHub): https://github.com/rebeccaruva/GabbGlobalChallenge-Bex/blob/master/GG%20Challenge%20-%20Android%20Build.zip
+ 
  
     - bex
