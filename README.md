@@ -1,2 +1,4 @@
-# GabbGlobalChallenge-Bex
+# Gabb Global Challenge 
+## Bex Ruvalcaba - @bexthehexx
+
  
